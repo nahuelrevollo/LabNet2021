@@ -1,0 +1,10 @@
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\bin\Debug\Trabajo Practico 1 LabNet2021.exe.config
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\bin\Debug\Trabajo Practico 1 LabNet2021.exe
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\bin\Debug\Trabajo Practico 1 LabNet2021.pdb
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\obj\Debug\Trabajo Practico 1 LabNet2021.csprojAssemblyReference.cache
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\obj\Debug\Trabajo_Practico_1_LabNet2021.Form1.resources
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\obj\Debug\Trabajo_Practico_1_LabNet2021.Properties.Resources.resources
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\obj\Debug\Trabajo Practico 1 LabNet2021.csproj.GenerateResource.cache
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\obj\Debug\Trabajo Practico 1 LabNet2021.csproj.CoreCompileInputs.cache
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\obj\Debug\Trabajo Practico 1 LabNet2021.exe
+C:\Users\Rochi\Desktop\LabNet2021\Trabajo Practico 1\Trabajo Practico 1 LabNet2021\Trabajo Practico 1 LabNet2021\obj\Debug\Trabajo Practico 1 LabNet2021.pdb
