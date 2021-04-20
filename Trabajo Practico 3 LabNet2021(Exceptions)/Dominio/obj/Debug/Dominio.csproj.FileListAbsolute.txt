@@ -1,0 +1,6 @@
+C:\Users\Rochi\Desktop\LabNet2021\Dominio\bin\Debug\Dominio.dll
+C:\Users\Rochi\Desktop\LabNet2021\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Rochi\Desktop\LabNet2021\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Rochi\Desktop\LabNet2021\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rochi\Desktop\LabNet2021\Dominio\obj\Debug\Dominio.dll
+C:\Users\Rochi\Desktop\LabNet2021\Dominio\obj\Debug\Dominio.pdb

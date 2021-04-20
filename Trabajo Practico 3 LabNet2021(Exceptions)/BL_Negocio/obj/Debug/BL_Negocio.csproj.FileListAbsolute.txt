@@ -1,0 +1,6 @@
+C:\Users\Rochi\Desktop\LabNet2021\BL_Negocio\bin\Debug\BL_Negocio.dll
+C:\Users\Rochi\Desktop\LabNet2021\BL_Negocio\bin\Debug\BL_Negocio.pdb
+C:\Users\Rochi\Desktop\LabNet2021\BL_Negocio\obj\Debug\BL_Negocio.csprojAssemblyReference.cache
+C:\Users\Rochi\Desktop\LabNet2021\BL_Negocio\obj\Debug\BL_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rochi\Desktop\LabNet2021\BL_Negocio\obj\Debug\BL_Negocio.dll
+C:\Users\Rochi\Desktop\LabNet2021\BL_Negocio\obj\Debug\BL_Negocio.pdb
